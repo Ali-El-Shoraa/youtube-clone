@@ -1,6 +1,4 @@
 {
-  "homepage": "https://github.com/Ali-El-Shoraa/youtube-clone",
-  "name": "youtube-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
